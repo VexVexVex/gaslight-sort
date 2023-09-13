@@ -1,1 +1,1 @@
-export {gaslightSort} from './gaslight-sort'
+export {yolosort} from './yolosort'

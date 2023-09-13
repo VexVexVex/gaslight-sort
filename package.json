@@ -1,6 +1,6 @@
 {
-  "name": "gaslight-sort",
-  "version": "1.0.1",
+  "name": "yolosort",
+  "version": "1.0.0",
   "description": "Implements a blazingly fast O(1) sorting algorithm",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VexVexVex/gaslight-sort.git"
+    "url": "git+https://github.com/VexVexVex/yolosort.git"
   },
   "keywords": [
     "sort",
@@ -22,7 +22,7 @@
   "author": "Alex Buko-Miller",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VexVexVex/gaslight-sort/issues"
+    "url": "https://github.com/VexVexVex/yolosort/issues"
   },
-  "homepage": "https://github.com/VexVexVex/gaslight-sort#readme"
+  "homepage": "https://github.com/VexVexVex/yolosort#readme"
 }
