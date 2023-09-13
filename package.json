@@ -1,0 +1,10 @@
+{
+	"name": "gaslight-sort",
+	"version": "1.0.0",
+	"description": "Implements a blazingly fast O(1) sorting algorithm",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"files": [
+		"/dist"
+	]
+}
